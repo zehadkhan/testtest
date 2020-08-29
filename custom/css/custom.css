@@ -1,0 +1,70 @@
+
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+
+ul>li{
+   list-style: none;
+}
+
+body{
+   /* background: #fff;
+   color: #757575; */
+   font-family: 'Muli', sans-serif;
+}
+body {
+   background-image: url('../../img/optimized-pe8l.jpg') !important;
+   width: 100%;
+   /* min-height: 500px ; */
+   height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    height: 100%;
+   
+   
+}
+
+
+::-webkit-input-placeholder {
+   text-align: center;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   text-align: center;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   text-align: center;  
+}
+
+:-ms-input-placeholder {  
+   text-align: center; 
+}
+
+a {
+   color : #ffffff;
+ }
+ a:hover {
+   color: hotpink;
+ }
+
+.middile_point{
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   /* bring your own prefixes */
+   transform: translate(-50%, -50%);
+}
+.panel-information {
+   border-color: #bce8f1;
+   max-width: 600px;
+   margin: 0 auto;
+   text-align: center;
+   padding: 20px;
+   opacity: 0.9;
+}
