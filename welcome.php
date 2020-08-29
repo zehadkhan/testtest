@@ -10,6 +10,7 @@
             <div class="caption col-md-12">
                <h1>Active Your System Today !!!</h1>
 			   <H1>Hello</h1>
+			   <h1>Step One</h1>
             </div>
             <div class="active_paragraph col-md-12 col-sm-12 text-center">
                <p>Working On It!! Processing Your System</p>
